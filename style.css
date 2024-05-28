@@ -1,0 +1,39 @@
+.Titulo{
+    background-color: aqua;
+    text-align: center;
+}
+.Parrafo{
+    text-align: center;
+}
+video{
+    width: 100%;
+    margin: auto;
+   border-style:dashed;
+}
+img {
+    margin: auto;
+    display: block;
+    width: 100%;
+    }
+    ul {
+        list-style-type: none;
+        text-align: center
+      }
+      
+      li {
+        display: inline;
+        margin-right: 10px;
+      }
+body{
+    font-size: large;
+}
+header{
+    font-size: 30px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 1rem;
+}
